@@ -3,30 +3,17 @@
 # 🏰 Harvard (CS50x) 2024:
 ![cs50](https://assets.skool.com/f/09cafb5298a844bb91a720b1367ed927/1ddce6010d534a3b8737e9afccf1d1ad960543e4631e499583a8ae415902f8c9)
 
-* CS50 is an introductory computer science course offered by Harvard University. It's designed for people of all backgrounds, with or without prior programming 
-* experience. Here's a breakdown of the key things to know about CS50:
+CS50's Introduction to Artificial Intelligence with Python is a comprehensive course offered by Harvard University through edX. This course is designed to introduce students to the fundamental concepts and algorithms that underpin modern artificial intelligence (AI)2. It covers a wide range of topics, including:
 
-Introduction
+Search Algorithms: Techniques for finding solutions to problems, such as navigating from one location to another or solving puzzles.
+Knowledge Representation: Methods for representing information and drawing inferences from it.
+Optimization: Finding the best or most efficient solutions to problems.
+Learning: Techniques for improving performance based on data and experience, such as distinguishing spam from non-spam emails.
+Neural Networks: Structures inspired by the human brain that can perform tasks effectively.
+Natural Language Processing: Understanding and processing human language.
+The course combines theoretical knowledge with practical coding exercises, allowing students to implement AI algorithms in Python. By the end of the course, students will have hands-on experience with machine learning libraries and a solid understanding of AI principles, enabling them to design intelligent systems of their own2.
 
-Covers the fundamentals of computer science and the art of programming.
-Offered in two formats:
-CS50x: The online version on edX, a self-paced course you can take on your own schedule.
-CS50: The on-campus version at Harvard, known as Harvard's largest course.
-Content
-
-Teaches you how to think algorithmically and solve problems efficiently.
-Covers core concepts like abstraction, algorithms, data structures, and web development.
-You'll also learn about software engineering, security, and resource management.
-Learning
-
-CS50x is a popular course with over 4 million learners worldwide.
-Both CS50 and CS50x offer a strong support system with teaching fellows, course assistants, and office hours.
-To earn a certificate, you'll need to complete problem sets (programming assignments) and a final project.
-Resources
-
-Check out the official CS50 website for detailed information: [CS50 Harvard University]
-If you're interested in the online version, visit the CS50x page on edX: [HarvardX CS50's Introduction to Computer Science]
-You can also find CS50 lectures and other resources on the CS50 YouTube channel: [CS50 YouTube]
+CS50's AI course is available for free on edX, and students can earn a verified certificate or even a professional certificate by enrolling through the platform. It's a great opportunity for anyone interested in AI to gain valuable skills and knowledge.
 # 👨‍🏫 David J. Malan
 ![David J. Malan](https://cs.harvard.edu/malan/malan.jpg)
 David J. Malan is a computer scientist and professor best known for teaching the popular introductory computer science course, CS50, at Harvard University. Here's a summary of his accomplishments:
