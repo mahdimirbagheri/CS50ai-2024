@@ -41,11 +41,11 @@ Free Audit:
 * You can audit the course for free, which gives you access to select course materials, activities, tests, and forums.
 
 Verified Certificate:
-* If you want a verified certificate from edX, enroll at cs50.edx.org/ai. This option costs $299 and provides unlimited access to full course materials, activities, tests, and forums2.
+* If you want a verified certificate from edX, enroll at (cs50.edx.org/ai). This option costs $299 and provides unlimited access to full course materials, activities, tests, and forums2.
 
-Professional Certificate: For a professional certificate, enroll at cs50.edx.org/programs/ai.
+Professional Certificate: For a professional certificate, enroll at (cs50.edx.org/programs/ai).
 
-Transfer Credit and Accreditation: If you're interested in transfer credit and accreditation from Harvard Extension School, register at web.dce.harvard.edu/extension/csci/e/80.
+Transfer Credit and Accreditation: If you're interested in transfer credit and accreditation from Harvard Extension School, register at (web.dce.harvard.edu/extension/csci/e/80).
 
 Create an edX Account: If you don't already have one, you'll need to create an edX account to enroll in the course.
 Complete the Course: Follow the course schedule, watch lectures, complete assignments, and participate in discussions.
