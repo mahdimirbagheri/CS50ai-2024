@@ -33,14 +33,14 @@ If you'd like to learn more about David J. Malan, you can visit his Harvard facu
 
 Joining CS50's Introduction to Artificial Intelligence with Python is quite straightforward! Here are the steps:
 
-* Visit the Course Website: Go to the official CS50 AI course page on the Harvard University website.
+Visit the Course Website: Go to the official CS50 AI course page on the Harvard University website.
 
-* Choose Your Enrollment Option: You have several options:
+Choose Your Enrollment Option: You have several options:
 
-* Free Audit: 
+Free Audit: 
 * You can audit the course for free, which gives you access to select course materials, activities, tests, and forums.
 
-* Verified Certificate:
+Verified Certificate:
 * If you want a verified certificate from edX, enroll at cs50.edx.org/ai. This option costs $299 and provides unlimited access to full course materials, activities, tests, and forums2.
 
 Professional Certificate: For a professional certificate, enroll at cs50.edx.org/programs/ai.
