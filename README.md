@@ -29,23 +29,26 @@ Professor at Harvard University: Malan is a Gordon McKay Professor of the Practi
 CS50 Instructor: CS50, which stands for Computer Science 50, is a massive open online course (MOOC) offered through edX. It's the largest open-learning course at Harvard and Yale and one of the biggest MOOCs on edX, with over a million people having viewed lectures by 2017 https://en.wikipedia.org/wiki/David_J._Malan.
 Research Interests: Malan's research interests span various areas of computer science, including cybersecurity, digital forensics, botnets, computer science education, and online learning methodologies https://en.wikipedia.org/wiki/David_J._Malan.
 If you'd like to learn more about David J. Malan, you can visit his Harvard faculty webpage https://cs.harvard.edu/malan/ or his profile on edX https://www.edx.org/bio/david-j-malan.
-# 📚 How to join in CS50x
-* There are two main ways to join CS50, depending on whether you want a formal certificate or not:
+# 📚 How to join in CS50ai
 
-* Free access (no certificate):
+Joining CS50's Introduction to Artificial Intelligence with Python is quite straightforward! Here are the steps:
 
-Head over to the CS50 Introduction to Computer Science course page on edX: CS50 edX
-You can start working through the lectures, readings, and problem sets at your own pace. This is a completely free option.
-* Verified certificate (optional):
+* Visit the Course Website: Go to the official CS50 AI course page on the Harvard University website.
 
-Enroll for the verified certificate track on the same edX page: CS50 edX There will be a fee associated with this option.
-This gives you access to graded assignments and a verified certificate upon completion.
-* Here are some additional things to keep in mind:
+* Choose Your Enrollment Option: You have several options:
 
-Regardless of the chosen path, you'll need a free edX account.
-CS50 also recommends having a free GitHub account for submitting your problem sets.
-The course content is designed to be self-paced, so you can work through it on your own schedule.
-CS50 offers a vibrant online community for help and discussions.
+* Free Audit: 
+* You can audit the course for free, which gives you access to select course materials, activities, tests, and forums.
+
+* Verified Certificate:
+* If you want a verified certificate from edX, enroll at cs50.edx.org/ai. This option costs $299 and provides unlimited access to full course materials, activities, tests, and forums2.
+
+Professional Certificate: For a professional certificate, enroll at cs50.edx.org/programs/ai.
+
+Transfer Credit and Accreditation: If you're interested in transfer credit and accreditation from Harvard Extension School, register at web.dce.harvard.edu/extension/csci/e/80.
+
+Create an edX Account: If you don't already have one, you'll need to create an edX account to enroll in the course.
+Complete the Course: Follow the course schedule, watch lectures, complete assignments, and participate in discussions.
 # 🌐 CS50 in Iran (CS50x Tehran)
 ![CS50x Tehran](https://media.licdn.com/dms/image/D4E3DAQG-5M7obNmY1A/image-scale_191_1128/0/1681389498799/cs50xtehran_cover?e=2147483647&v=beta&t=cbEuLD4eTQR87qsuwdFyOKo3SfKV8ENkdxhKxfC-KF8)
 CS50x Tehran is a local initiative offering the introductory computer science course CS50 developed by Harvard University. CS50x Tehran provides the CS50 curriculum in a format accessible to Iranian learners, often with materials translated into Farsi.
