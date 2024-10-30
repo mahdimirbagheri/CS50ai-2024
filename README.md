@@ -5,12 +5,19 @@
 
 CS50's Introduction to Artificial Intelligence with Python is a comprehensive course offered by Harvard University through edX. This course is designed to introduce students to the fundamental concepts and algorithms that underpin modern artificial intelligence (AI)2. It covers a wide range of topics, including:
 
-Search Algorithms: Techniques for finding solutions to problems, such as navigating from one location to another or solving puzzles.
-Knowledge Representation: Methods for representing information and drawing inferences from it.
-Optimization: Finding the best or most efficient solutions to problems.
-Learning: Techniques for improving performance based on data and experience, such as distinguishing spam from non-spam emails.
-Neural Networks: Structures inspired by the human brain that can perform tasks effectively.
-Natural Language Processing: Understanding and processing human language.
+Search Algorithms: 
+Techniques for finding solutions to problems, such as navigating from one location to another or solving puzzles.
+Knowledge Representation: 
+Methods for representing information and drawing inferences from it.
+Optimization: 
+Finding the best or most efficient solutions to problems.
+Learning: 
+Techniques for improving performance based on data and experience, such as distinguishing spam from non-spam emails.
+Neural Networks: 
+Structures inspired by the human brain that can perform tasks effectively.
+Natural Language Processing: 
+Understanding and processing human language.
+
 The course combines theoretical knowledge with practical coding exercises, allowing students to implement AI algorithms in Python. By the end of the course, students will have hands-on experience with machine learning libraries and a solid understanding of AI principles, enabling them to design intelligent systems of their own2.
 
 CS50's AI course is available for free on edX, and students can earn a verified certificate or even a professional certificate by enrolling through the platform. It's a great opportunity for anyone interested in AI to gain valuable skills and knowledge.
