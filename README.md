@@ -1,6 +1,6 @@
 # 💡 My Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdi___mirbagheri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZS6qGzzgT%2B%2BmXAiAGDhFvQ%3D%3D) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21915481/exceptional-boy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohammad208506) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderscafe8) 
-# 🏰 Harvard (CS50x) 2024:
+# 🏰 Harvard (CS50ai) 2024:
 ![cs50](https://assets.skool.com/f/09cafb5298a844bb91a720b1367ed927/1ddce6010d534a3b8737e9afccf1d1ad960543e4631e499583a8ae415902f8c9)
 
 CS50's Introduction to Artificial Intelligence with Python is a comprehensive course offered by Harvard University through edX. This course is designed to introduce students to the fundamental concepts and algorithms that underpin modern artificial intelligence (AI)2. It covers a wide range of topics, including:
