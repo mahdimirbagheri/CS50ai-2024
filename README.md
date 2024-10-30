@@ -1,9 +1,9 @@
-# 👨‍🎓 My CS50x
+![image](https://github.com/user-attachments/assets/b30d403e-af56-4711-b7d9-be3c0ae49ee7)# 👨‍🎓 My CS50x
 ![cs50](https://certificates.cs50.io/ed308ddd-001a-43cb-963f-15322d2173e2.pdf?size=letter)
 # 💡 My Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdi___mirbagheri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZS6qGzzgT%2B%2BmXAiAGDhFvQ%3D%3D) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21915481/exceptional-boy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mohammad208506) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@coderscafe8) 
 # 🏰 Harvard (CS50x) 2024:
-![cs50](https://facialix.com/wp-content/uploads/2023/05/curso-gratis-de-harvard-facialix.jpg)
+![cs50](https://pll.harvard.edu/sites/default/files/styles/16_9_medium/public/course/CS50AI_pll.png?itok=xPwrFW6A)
 
 * CS50 is an introductory computer science course offered by Harvard University. It's designed for people of all backgrounds, with or without prior programming 
 * experience. Here's a breakdown of the key things to know about CS50:
