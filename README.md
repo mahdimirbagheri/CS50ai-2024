@@ -5,11 +5,11 @@
 
 CS50's Introduction to Artificial Intelligence with Python is a comprehensive course offered by Harvard University through edX. This course is designed to introduce students to the fundamental concepts and algorithms that underpin modern artificial intelligence (AI)2. It covers a wide range of topics, including:
 
-Search Algorithms: 
+* Search Algorithms: 
 Techniques for finding solutions to problems, such as navigating from one location to another or solving puzzles.
-Knowledge Representation: 
+* Knowledge Representation: 
 Methods for representing information and drawing inferences from it.
-Optimization: 
+* Optimization: 
 Finding the best or most efficient solutions to problems.
 Learning: 
 Techniques for improving performance based on data and experience, such as distinguishing spam from non-spam emails.
