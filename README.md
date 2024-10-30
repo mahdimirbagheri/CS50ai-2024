@@ -11,9 +11,9 @@ Techniques for finding solutions to problems, such as navigating from one locati
 Methods for representing information and drawing inferences from it.
 * Optimization: 
 Finding the best or most efficient solutions to problems.
-Learning: 
+* Learning: 
 Techniques for improving performance based on data and experience, such as distinguishing spam from non-spam emails.
-Neural Networks: 
+* Neural Networks: 
 Structures inspired by the human brain that can perform tasks effectively.
 Natural Language Processing: 
 Understanding and processing human language.
